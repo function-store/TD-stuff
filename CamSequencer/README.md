@@ -15,6 +15,7 @@ This TouchDesigner component can be used to save multiple camera settings (t[xyz
 
 - Better record management (remove currently selected instead of last entry?)
 - Extend number of parameters (multiple choosable subsets?)
+- Export/Import record sets
 - One-click post-referencing
 - UI?? Snapshots??
 
